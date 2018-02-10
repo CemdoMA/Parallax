@@ -1,12 +1,12 @@
-## Parallax ##
+# Parallax #
 
-# Opdracht: #
+### Opdracht: ###
 Front-end Parallax
 
-# Gemaakt door: #
+### Gemaakt door: ###
 Cem den Ouden
 
-# Klas: #
+### Klas: ###
 MD2A
 
 
